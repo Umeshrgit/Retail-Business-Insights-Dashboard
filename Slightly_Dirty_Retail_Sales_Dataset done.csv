@@ -1,0 +1,601 @@
+Invoice ID,Invoice Date,Region,State,Product,Category,Sales Channel,Units Sold,Unit Price,Discount %,Total Sales,Cost per Unit,Operating Profit
+INV00001,14-02-2024,North,Delhi,Smartphone,Electronics,Online,8,23289,0.18,152775.84,20206.79,-8878.49
+INV00002,06-10-2024,West,Maharashtra,Laptop,Electronics,Online,7,35495,0.00,248465,23414.32,84564.74
+INV00003,20-04-2024,West,Maharashtra,Printer,Accessories,Distributor,9,5851,0.19,42653.79,4252.42,4382.05
+INV00004,23-08-2024,East,West Bengal,Laptop,Electronics,Retail Store,4,52052,0.21,164484.32,43834.99,-10855.65
+INV00005,26-04-2024,North,Punjab,Laptop,Electronics,Distributor,10,52400,0.14,450640,32160.36,129036.41
+INV00006,30-06-2024,East,West Bengal,Tablet,Electronics,Online,13,41434,0.11,479391.38,26882.22,129922.48
+INV00007,18-05-2024,South,Kerala,Smartphone,Electronics,Distributor,3,27431,0.13,71594.91,20262.68,10806.88
+INV00008,17-10-2024,South,Kerala,Smartphone,Electronics,Online,8,9207,0.2,58924.8,5707.02,13268.64
+INV00009,14-05-2024,East,West Bengal,Printer,Accessories,Retail Store,15,23726,0.07,330977.7,18231.31,57508.11
+INV00010,17-11-2024,West,Rajasthan,Printer,Accessories,Retail Store,8,23131,0.13,160991.76,14205.55,47347.32
+INV00011,10-10-2024,South,Kerala,Printer,Accessories,Distributor,3,55432,0.1,149666.4,42058.16,23491.92
+INV00012,21-03-2024,North,Haryana,Laptop,Electronics,Distributor,18,39973,0.19,582806.34,27503.42,87744.7
+INV00013,07-11-2024,West,Maharashtra,Smartphone,Electronics,Distributor,6,71542,0.23,330524.04,49330.6,34540.43
+INV00014,27-02-2024,South,Karnataka,Smartphone,Electronics,Online,18,74514,0.23,1032764.04,55630.79,31409.83
+INV00015,05-02-2024,East,Odisha,Tablet,Electronics,Online,8,79364,0.24,482533.12,59189.44,9017.57
+INV00016,03-10-2024,South,Karnataka,Printer,Accessories,Distributor,6,39741,0.13,207448.02,35342.02,-4604.12
+INV00017,02-02-2024,South,Kerala,Smartphone,Electronics,Retail Store,12,62422,0.22,584269.92,42095.63,79122.37
+INV00018,04-02-2024,East,West Bengal,Monitor,Accessories,Distributor,8,33864,0,270912,20916.51,103579.92
+INV00019,19-10-2024,North,Punjab,Laptop,Electronics,Distributor,8,41500,0.17,275560,26547.28,63181.74
+INV00020,28-01-2024,West,Maharashtra,Printer,Accessories,Retail Store,7,17363,0.02,119110.18,12624.18,30740.93
+INV00021,04-08-2024,North,Delhi,Printer,Accessories,Distributor,11,19322,0.06,199789.48,14193.63,43659.51
+INV00022,29-11-2024,South,Tamil Nadu,Printer,Accessories,Online,3,63082,0.2,151396.8,39702.08,32290.55
+INV00023,25-03-2024,North,Delhi,Tablet,Electronics,Online,14,68653,0.12,845804.96,59778.42,8907.04
+INV00024,06-09-2024,West,Maharashtra,Printer,Accessories,Retail Store,15,42388,0.11,565879.8,38090.99,-5485.1
+INV00025,01-09-2024,South,Karnataka,Smartphone,Electronics,Online,2,76066,0.02,149089.36,46783.84,55521.68
+INV00026,02-03-2024,South,Karnataka,Monitor,Accessories,Online,6,13981,0.15,71303.1,9375.12,15052.41
+INV00027,13-05-2024,South,Kerala,Monitor,Accessories,Online,20,15745,0.1,283410,11916.36,45082.72
+INV00028,07-02-2024,South,Kerala,Smartphone,Electronics,Online,9,56876,0.03,496527.48,41927.13,119183.3
+INV00029,27-06-2024,North,Punjab,Monitor,Accessories,Distributor,4,14602,0.13,50814.96,9341.44,13449.2
+INV00030,30-11-2024,North,Delhi,Smartphone,Electronics,Retail Store,6,62433,0.21,295932.42,48916.46,2433.64
+INV00031,20-03-2024,North,Haryana,Monitor,Accessories,Retail Store,4,22601,0.07,84075.72,18594.41,9698.09
+INV00032,08-05-2024,East,Odisha,Monitor,Accessories,Online,11,31685,0.17,289284.05,23815.17,27317.23
+INV00033,23-03-2024,North,Delhi,Printer,Accessories,Retail Store,2,5464,0.08,10053.76,4884.48,284.79
+INV00034,08-07-2024,West,Rajasthan,Printer,Accessories,Distributor,1,19663,0.02,19269.74,17129.98,2139.76
+INV00035,02-07-2024,South,Tamil Nadu,Tablet,Electronics,Online,10,52795,0.22,411801,45309.24,-41291.38
+INV00036,13-11-2024,South,Kerala,Tablet,Electronics,Distributor,4,51357,0.2,164342.4,37075.3,16041.21
+INV00037,29-07-2024,South,Karnataka,Tablet,Electronics,Online,14,8248,0.04,110853.12,6884.74,14466.8
+INV00038,23-08-2024,South,Tamil Nadu,Tablet,Electronics,Distributor,4,55140,0.22,172036.8,36763.5,24982.81
+INV00039,22-05-2024,East,Odisha,Tablet,Electronics,Online,1,30313,0.1,27281.7,18819.11,8462.59
+INV00040,01-04-2024,East,Assam,Monitor,Accessories,Retail Store,18,48404,0.23,670879.44,43133.78,-105528.62
+INV00041,18-09-2024,East,West Bengal,Laptop,Electronics,Distributor,14,50309,0.18,577547.32,39334.73,26861.12
+INV00042,02-10-2024,North,Punjab,Monitor,Accessories,Online,9,10817,0.00,97353,9493.78,11908.94
+INV00043,16-09-2024,South,Tamil Nadu,Printer,Accessories,Online,11,46145,0.17,421303.85,40146.8,-20310.93
+INV00044,13-07-2024,East,Assam,Printer,Accessories,Retail Store,13,43752,0.14,489147.36,34978.8,34422.99
+INV00045,23-10-2024,South,Kerala,Monitor,Accessories,Retail Store,13,76819,0.21,788931.13,50935.21,126773.44
+INV00046,27-03-2024,East,Odisha,Printer,Accessories,Retail Store,7,72000,0.12,443520,60394.13,20761.06
+INV00047,07-06-2024,North,Punjab,Monitor,Accessories,Distributor,20,48933,0.02,959086.8,32807.65,302933.85
+INV00048,21-08-2024,South,Karnataka,Tablet,Electronics,Online,2,37092,0.25,55638,30806.64,-5975.28
+INV00049,24-02-2024,West,Rajasthan,Monitor,Accessories,Online,13,69799,0.1,816648.3,56278.01,85034.21
+INV00050,25-08-2024,West,Maharashtra,Tablet,Electronics,Distributor,17,65889,0.01,1108911.87,56302.21,151774.3
+INV00051,31-08-2024,East,Odisha,Monitor,Accessories,Distributor,17,60933,0.21,818330.19,52960.67,-82001.27
+INV00052,30-04-2024,West,Gujarat,Tablet,Electronics,Distributor,9,73327,0.12,580749.84,53672.56,97696.79
+INV00053,19-04-2024,East,Odisha,Smartphone,Electronics,Distributor,3,23136,0.04,66631.68,14942.19,21805.11
+INV00054,26-10-2024,North,Punjab,Printer,Accessories,Retail Store,18,66069,0.1,1070317.8,47968.94,206876.9
+INV00055,02-08-2024,North,Haryana,Printer,Accessories,Retail Store,1,51105,0.07,47527.65,44333.2,3194.45
+INV00056,26-07-2024,South,Tamil Nadu,Tablet,Electronics,Retail Store,14,68654,0.01,951544.44,55180.14,179022.45
+INV00057,12-02-2024,South,Tamil Nadu,Tablet,Electronics,Distributor,18,8534,0.23,118281.24,6817.81,-4439.38
+INV00058,13-07-2024,West,Maharashtra,Printer,Accessories,Online,2,39099,0.09,71160.18,27293.2,16573.77
+INV00059,24-04-2024,East,Odisha,Smartphone,Electronics,Online,16,7540,0.19,97718.4,6677.24,-9117.48
+INV00060,30-08-2024,North,Haryana,Laptop,Electronics,Online,8,31130,0.21,196741.6,20905.77,29495.43
+INV00061,28-02-2024,North,Haryana,Tablet,Electronics,Retail Store,9,53351,0.04,460952.64,43981.37,65120.27
+INV00062,11-04-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,1,45888,0.14,39463.68,32699.43,6764.25
+INV00063,29-09-2024,North,Haryana,Tablet,Electronics,Online,10,20866,0.2,166928,12776.68,39161.15
+INV00064,04-07-2024,West,Rajasthan,Smartphone,Electronics,Online,17,49725,0,845325,37147.58,213816.07
+INV00065,04-09-2024,West,Rajasthan,Tablet,Electronics,Retail Store,6,73386,0.24,334640.16,61824.75,-36308.35
+INV00066,25-08-2024,West,Gujarat,Monitor,Accessories,Retail Store,11,37177,0.21,323068.13,32139.12,-30462.2
+INV00067,01-11-2024,West,Gujarat,Laptop,Electronics,Retail Store,11,28834,0.12,279113.12,19535.2,64225.92
+INV00068,03-05-2024,East,Assam,Laptop,Electronics,Distributor,7,16221,0.06,106734.18,12434.25,19694.4
+INV00069,07-07-2024,West,Rajasthan,Printer,Accessories,Retail Store,1,17196,0.07,15992.28,11572.76,4419.52
+INV00070,02-03-2024,West,Rajasthan,Monitor,Accessories,Retail Store,14,77140,0.08,993563.2,52553.55,257813.53
+INV00071,28-10-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,18,29267,0.05,500465.7,19987.89,140683.6
+INV00072,20-05-2024,East,West Bengal,Tablet,Electronics,Retail Store,8,52301,0,418408,39761.34,100317.28
+INV00073,02-09-2024,North,Delhi,Monitor,Accessories,Retail Store,5,69340,0,346700,47518.83,109105.87
+INV00074,17-12-2024,West,Gujarat,Tablet,Electronics,Online,9,67616,0.03,590287.68,50544.58,135386.45
+INV00075,06-11-2024,North,Delhi,Tablet,Electronics,Distributor,10,16164,0.25,121230,13405.34,-12823.39
+INV00076,13-11-2024,South,Kerala,Printer,Accessories,Retail Store,15,43974,0.22,514495.8,30413.04,58300.24
+INV00077,08-02-2024,North,Haryana,Laptop,Electronics,Online,7,39687,0.17,230581.47,25881.64,49409.98
+INV00078,25-12-2024,South,Karnataka,Printer,Accessories,Retail Store,20,66592,0.07,1238611.2,54078.48,157041.58
+INV00079,13-03-2024,West,Maharashtra,Tablet,Electronics,Retail Store,19,30928,0.11,522992.48,24565.81,56242.01
+INV00080,04-06-2024,North,Delhi,Tablet,Electronics,Retail Store,20,79607,0.23,1225947.8,58957.69,46793.96
+INV00081,08-05-2024,West,Gujarat,Monitor,Accessories,Distributor,16,62377,0,998032,45510.8,269859.27
+INV00082,21-01-2024,North,Delhi,Tablet,Electronics,Distributor,19,7719,0.25,109995.75,5255.51,10141.12
+INV00083,08-09-2024,South,Tamil Nadu,Monitor,Accessories,Distributor,15,41458,0.05,590776.5,32769.87,99228.43
+INV00084,21-12-2024,North,Punjab,Smartphone,Electronics,Retail Store,11,47081,0.17,429849.53,32906.85,67874.23
+INV00085,20-09-2024,West,Gujarat,Printer,Accessories,Distributor,2,64614,0.02,126643.44,41015.45,44612.54
+INV00086,16-11-2024,North,Haryana,Monitor,Accessories,Retail Store,14,12104,0.05,160983.2,10009.2,20854.45
+INV00087,18-11-2024,West,Maharashtra,Tablet,Electronics,Retail Store,18,22172,0.23,307303.92,17947.68,-15754.32
+INV00088,28-02-2024,South,Kerala,Tablet,Electronics,Retail Store,18,6792,0.14,105140.16,6097.02,-4606.26
+INV00089,21-08-2024,West,Maharashtra,Tablet,Electronics,Retail Store,10,71698,0.18,587923.6,53397.08,53952.84
+INV00090,31-07-2024,South,Tamil Nadu,Tablet,Electronics,Distributor,17,22892,0.22,303547.92,19160.65,-22183.07
+INV00091,17-03-2024,East,Assam,Smartphone,Electronics,Online,10,44132,0.21,348642.8,35216.55,-3522.72
+INV00092,23-12-2024,West,Rajasthan,Printer,Accessories,Retail Store,11,77340,0.19,689099.4,68048.04,-59429.02
+INV00093,14-07-2024,South,Kerala,Printer,Accessories,Online,14,10720,0.08,138073.6,9369.59,6899.32
+INV00094,13-08-2024,West,Rajasthan,Tablet,Electronics,Retail Store,2,21547,0.13,37491.78,18550.03,391.72
+INV00095,15-05-2024,North,Haryana,Printer,Accessories,Online,5,58736,0.22,229070.4,36560.13,46269.73
+INV00096,11-06-2024,East,Assam,Printer,Accessories,Distributor,3,48065,0.21,113914.05,34318.55,10958.41
+INV00097,10-08-2024,West,Rajasthan,Laptop,Electronics,Distributor,3,35771,0.16,90142.92,32166.28,-6355.91
+INV00098,30-05-2024,North,Haryana,Laptop,Electronics,Retail Store,6,44251,0,265506,37119.64,42788.14
+INV00099,30-03-2024,East,Odisha,Printer,Accessories,Online,8,74621,0.1,537271.2,48803.41,146843.94
+INV00100,10-05-2024,North,Haryana,Printer,Accessories,Distributor,8,70230,0.23,432616.8,51853.97,17785.06
+INV00101,23-11-2024,West,Gujarat,Laptop,Electronics,Retail Store,10,76643,0.04,735772.8,53931.36,196459.24
+INV00102,02-07-2024,West,Rajasthan,Smartphone,Electronics,Retail Store,10,31111,0.25,233332.5,19662.03,36712.23
+INV00103,26-01-2024,East,Assam,Smartphone,Electronics,Online,13,40976,0,532688,34153.23,88696.02
+INV00104,03-12-2024,West,Gujarat,Tablet,Electronics,Distributor,12,33705,0.16,339746.4,27076.22,14831.82
+INV00105,08-03-2024,South,Kerala,Laptop,Electronics,Distributor,2,45492,0,90984,32274.68,26434.64
+INV00106,06-07-2024,North,Punjab,Smartphone,Electronics,Distributor,14,28021,0.05,372679.3,24180.39,34153.83
+INV00107,25-04-2024,East,West Bengal,Smartphone,Electronics,Retail Store,10,49396,0.2,395168,30753.45,87633.54
+INV00108,14-05-2024,West,Rajasthan,Smartphone,Electronics,Online,13,6824,0.07,82502.16,4848.97,19465.57
+INV00109,23-04-2024,West,Rajasthan,Smartphone,Electronics,Online,8,66797,0.01,529032.24,51328.3,118405.85
+INV00110,09-09-2024,North,Haryana,Printer,Accessories,Distributor,10,58516,0,585160,35762.85,227531.49
+INV00111,03-10-2024,North,Delhi,Tablet,Electronics,Distributor,5,55940,0.11,248933,46035.38,18756.11
+INV00112,21-04-2024,West,Rajasthan,Tablet,Electronics,Retail Store,4,69139,0.15,235072.6,47285.69,45929.86
+INV00113,07-04-2024,West,Gujarat,Tablet,Electronics,Retail Store,4,53147,0.14,182825.68,37606.93,32397.95
+INV00114,16-10-2024,North,Punjab,Laptop,Electronics,Distributor,7,7799,0.01,54047.07,6992.94,5096.46
+INV00115,01-11-2024,South,Karnataka,Monitor,Accessories,Online,19,33305,0.2,506236,27720.1,-20445.97
+INV00116,08-03-2024,North,Punjab,Tablet,Electronics,Online,18,37853,0.2,545083.2,32551.1,-40836.52
+INV00117,26-09-2024,North,Punjab,Tablet,Electronics,Distributor,11,7068,0.04,74638.08,5813.54,10689.15
+INV00118,10-11-2024,North,Haryana,Laptop,Electronics,Retail Store,15,52453,0.13,684511.65,39400.16,93509.32
+INV00119,17-12-2024,North,Haryana,Monitor,Accessories,Retail Store,15,9082,0.02,133505.4,6543.45,35353.7
+INV00120,20-11-2024,North,Punjab,Printer,Accessories,Online,3,47219,0.15,120408.45,32227.19,23726.87
+INV00121,28-02-2024,East,Odisha,Monitor,Accessories,Distributor,10,64469,0.13,560880.3,54020.43,20675.96
+INV00122,09-06-2024,South,Tamil Nadu,Printer,Accessories,Online,14,49424,0.21,546629.44,40472.51,-19985.71
+INV00123,09-07-2024,West,Gujarat,Smartphone,Electronics,Retail Store,5,67163,0.02,329098.7,80595.6,-73879.3
+INV00124,06-12-2024,South,Kerala,Laptop,Electronics,Distributor,18,78620,0.08,1301947.2,55511.96,302731.84
+INV00125,24-04-2024,West,Rajasthan,Laptop,Electronics,Retail Store,20,45953,0.09,836344.6,30504.6,226252.68
+INV00126,14-11-2024,North,Punjab,Monitor,Accessories,Retail Store,4,41512,0.14,142801.28,35432.42,1071.58
+INV00127,04-01-2024,North,Haryana,Smartphone,Electronics,Online,6,40818,0.18,200824.56,28652.09,28912.03
+INV00128,28-09-2024,South,Karnataka,Monitor,Accessories,Distributor,13,14120,0.04,176217.6,8601.86,64393.37
+INV00129,17-10-2024,South,Tamil Nadu,Printer,Accessories,Retail Store,11,25631,0.09,256566.31,21351.92,21695.17
+INV00130,05-09-2024,North,Delhi,Tablet,Electronics,Online,20,11522,0.17,191265.2,9201.26,7240.05
+INV00131,26-09-2024,West,Gujarat,Smartphone,Electronics,Online,17,19918,0.09,308131.46,16003.42,36073.27
+INV00132,11-03-2024,East,West Bengal,Tablet,Electronics,Retail Store,20,12180,0,243600,8079.85,82003.02
+INV00133,26-12-2024,East,Odisha,Smartphone,Electronics,Online,1,70193,0.19,56856.33,50122.17,6734.16
+INV00134,23-08-2024,South,Kerala,Monitor,Accessories,Distributor,12,14447,0.1,156027.6,10558.82,29321.77
+INV00135,11-01-2024,North,Punjab,Monitor,Accessories,Retail Store,19,58008,0.18,903764.64,36809.09,204391.87
+INV00136,24-07-2024,East,West Bengal,Monitor,Accessories,Retail Store,12,16551,0.11,176764.68,12093.86,31638.3
+INV00137,28-02-2024,North,Punjab,Smartphone,Electronics,Distributor,11,34041,0.08,344494.92,25637.81,62479.03
+INV00138,19-03-2024,South,Tamil Nadu,Smartphone,Electronics,Distributor,5,35968,0.03,174444.8,23452.92,57180.18
+INV00139,15-11-2024,North,Delhi,Printer,Accessories,Retail Store,19,63838,0.17,1006725.26,50616.99,45002.38
+INV00140,29-10-2024,East,Assam,Smartphone,Electronics,Online,15,13950,0.12,184140,11702.64,8600.4
+INV00141,09-02-2024,North,Punjab,Monitor,Accessories,Online,10,65521,0.11,583136.9,55660.68,26530.11
+INV00142,22-01-2024,North,Haryana,Monitor,Accessories,Distributor,13,65648,0.15,725410.4,53941.41,24172.11
+INV00143,24-06-2024,West,Rajasthan,Tablet,Electronics,Retail Store,20,67341,0.13,1171733.4,49506.2,181609.34
+INV00144,05-07-2024,North,Haryana,Tablet,Electronics,Online,8,62377,0.25,374262,48837.55,-16438.4
+INV00145,18-02-2024,East,Odisha,Printer,Accessories,Retail Store,11,11863,0.2,104394.4,7352.37,23518.29
+INV00146,01-12-2024,West,Gujarat,Smartphone,Electronics,Distributor,20,24709,0.08,454645.6,15873.77,137170.28
+INV00147,25-12-2024,West,Maharashtra,Monitor,Accessories,Distributor,3,45577,0.14,117588.66,31837.49,22076.18
+INV00148,05-09-2024,North,Haryana,Printer,Accessories,Distributor,12,7389,0.09,80687.88,4908.2,21789.47
+INV00149,26-09-2024,South,Karnataka,Tablet,Electronics,Online,3,43770,0.21,103734.9,36384.36,-5418.17
+INV00150,15-11-2024,North,Haryana,Smartphone,Electronics,Distributor,5,54377,0.04,261009.6,43928.66,41366.3
+INV00151,25-05-2024,South,Kerala,Printer,Accessories,Online,14,52749,0.17,612943.38,38678.71,71441.42
+INV00152,13-08-2024,West,Maharashtra,Monitor,Accessories,Online,10,66474,0.23,511849.8,53411.33,-22263.5
+INV00153,08-05-2024,West,Gujarat,Printer,Accessories,Distributor,17,59874,0.24,773572.08,50316.78,-81813.15
+INV00154,12-02-2024,North,Haryana,Printer,Accessories,Retail Store,18,18446,0.18,272262.96,11757.54,60627.21
+INV00155,27-06-2024,South,Tamil Nadu,Printer,Accessories,Distributor,5,62340,0.02,305466,52677.98,42076.08
+INV00156,15-01-2024,North,Punjab,Laptop,Electronics,Retail Store,17,54015,0.06,863159.7,38484.27,208927.07
+INV00157,12-03-2024,East,West Bengal,Smartphone,Electronics,Online,5,10020,0.07,46593,8104.39,6071.04
+INV00158,27-09-2024,West,Gujarat,Monitor,Accessories,Online,3,7490,0.06,21121.8,5727.16,3940.31
+INV00159,26-02-2024,West,Maharashtra,Smartphone,Electronics,Online,10,20970,0.01,207603,17576.42,31838.81
+INV00160,19-10-2024,West,Rajasthan,Monitor,Accessories,Online,17,36711,0.18,511751.34,22043.83,137006.26
+INV00161,11-01-2024,West,Maharashtra,Laptop,Electronics,Distributor,12,13870,0.24,126494.4,11594.26,-12636.74
+INV00162,02-12-2024,West,Gujarat,Laptop,Electronics,Distributor,13,53929,0,701077,45114.63,114586.83
+INV00163,16-12-2024,North,Haryana,Smartphone,Electronics,Online,2,51176,0.14,88022.72,33393.71,21235.3
+INV00164,23-01-2024,West,Rajasthan,Printer,Accessories,Distributor,6,22675,0.02,133329,16718.37,33018.81
+INV00165,27-11-2024,South,Karnataka,Smartphone,Electronics,Retail Store,17,57196,0.25,729249,38664.16,71958.28
+INV00166,13-08-2024,South,Tamil Nadu,Smartphone,Electronics,Online,11,40811,0.03,435453.37,35376.85,46308.02
+INV00167,10-02-2024,West,Gujarat,Tablet,Electronics,Retail Store,16,53148,0.23,654783.36,44662.63,-59818.65
+INV00168,06-08-2024,West,Rajasthan,Tablet,Electronics,Distributor,10,47101,0.03,456879.7,32438.08,132498.89
+INV00169,10-08-2024,South,Kerala,Printer,Accessories,Retail Store,15,10551,0.18,129777.3,8276.79,5625.46
+INV00170,16-01-2024,East,Assam,Laptop,Electronics,Online,13,52619,0.13,595120.89,34096.9,151861.16
+INV00171,17-10-2024,South,Kerala,Printer,Accessories,Online,5,13812,0.06,64916.4,9787.81,15977.36
+INV00172,28-09-2024,North,Haryana,Tablet,Electronics,Distributor,15,53623,0.09,731953.95,41406.42,110857.62
+INV00173,22-09-2024,East,Odisha,Smartphone,Electronics,Distributor,9,37717,0,339453,24735.35,116834.83
+INV00174,12-04-2024,West,Rajasthan,Laptop,Electronics,Retail Store,9,63493,0.05,542865.15,51314.67,81033.09
+INV00175,12-06-2024,North,Delhi,Laptop,Electronics,Retail Store,6,63341,0.25,285034.5,56390.49,-53308.43
+INV00176,24-12-2024,East,Assam,Laptop,Electronics,Distributor,18,43058,0.22,604534.32,35029.52,-25997.09
+INV00177,03-07-2024,South,Tamil Nadu,Monitor,Accessories,Online,4,31342,0.2,100294.4,23450.29,6493.24
+INV00178,02-09-2024,East,Odisha,Monitor,Accessories,Online,20,16300,0.02,319480,13285.81,53763.89
+INV00179,09-10-2024,West,Gujarat,Monitor,Accessories,Online,5,46553,0.16,195522.6,37430.13,8371.93
+INV00180,29-12-2024,South,Karnataka,Printer,Accessories,Distributor,2,21274,0.13,37016.76,13798.11,9420.55
+INV00181,16-11-2024,South,Tamil Nadu,Monitor,Accessories,Retail Store,3,37847,0.05,107863.95,25824.34,30390.92
+INV00182,15-11-2024,East,Assam,Monitor,Accessories,Online,17,27103,0.15,391638.35,17653.82,91523.49
+INV00183,17-04-2024,East,Assam,Laptop,Electronics,Online,3,10958,0.24,24984.24,7444.83,2649.75
+INV00184,26-07-2024,West,Rajasthan,Laptop,Electronics,Retail Store,18,42967,0.16,649661.04,28936.7,128800.43
+INV00185,06-11-2024,East,Odisha,Laptop,Electronics,Distributor,2,25719,0.11,45779.82,17005.58,11768.66
+INV00186,12-06-2024,South,Tamil Nadu,Smartphone,Electronics,Distributor,12,57260,0.03,666506.4,44004.04,138457.86
+INV00187,11-11-2024,South,Tamil Nadu,Laptop,Electronics,Retail Store,15,37495,0.04,539928,33131.16,42960.57
+INV00188,06-06-2024,West,Maharashtra,Tablet,Electronics,Retail Store,19,45988,0.05,830083.4,41333.59,44745.14
+INV00189,10-09-2024,West,Maharashtra,Laptop,Electronics,Retail Store,17,64930,0.24,838895.6,77916,-485676.4
+INV00190,24-01-2024,West,Gujarat,Monitor,Accessories,Online,4,61482,0.03,238550.16,43635.82,64006.87
+INV00191,23-05-2024,West,Maharashtra,Monitor,Accessories,Distributor,7,52516,0.14,316146.32,39454.05,39968
+INV00192,04-11-2024,North,Delhi,Laptop,Electronics,Retail Store,12,49444,0.14,510262.08,31806.35,128585.92
+INV00193,20-09-2024,West,Rajasthan,Laptop,Electronics,Online,2,22961,0.18,37656.04,17353.92,2948.2
+INV00194,21-06-2024,South,Tamil Nadu,Monitor,Accessories,Retail Store,6,56505,0.25,254272.5,38975.47,20419.67
+INV00195,18-12-2024,West,Rajasthan,Monitor,Accessories,Retail Store,16,7180,0.09,104540.8,6418.7,1841.59
+INV00196,18-11-2024,North,Haryana,Printer,Accessories,Retail Store,19,34824,0.18,542557.92,22675.77,111718.22
+INV00197,14-04-2024,West,Maharashtra,Tablet,Electronics,Online,19,19404,0.05,350242.2,14080.2,82718.33
+INV00198,11-07-2024,West,Rajasthan,Monitor,Accessories,Retail Store,2,23098,0.13,40190.52,20775.19,-1359.87
+INV00199,25-11-2024,East,West Bengal,Printer,Accessories,Distributor,11,76601,0.09,766776.01,62527.66,78971.72
+INV00200,01-06-2024,East,Assam,Printer,Accessories,Online,8,41569,0.14,285994.72,37074.28,-10599.49
+INV00201,20-05-2024,East,Assam,Tablet,Electronics,Distributor,16,46555,0.12,655494.4,40984.49,-257.44
+INV00202,15-03-2024,East,West Bengal,Monitor,Accessories,Distributor,18,54767,0.22,768928.68,38530.8,75374.33
+INV00203,19-04-2024,East,West Bengal,Smartphone,Electronics,Distributor,3,50398,0.23,116419.38,41538.11,-8194.95
+INV00204,26-01-2024,South,Kerala,Smartphone,Electronics,Distributor,9,22992,0.03,200720.16,15445.67,61709.11
+INV00205,11-03-2024,South,Kerala,Tablet,Electronics,Online,4,59172,0.08,217752.96,47595.45,27371.17
+INV00206,26-05-2024,North,Haryana,Tablet,Electronics,Retail Store,16,67580,0.16,908275.2,46371.61,166329.51
+INV00207,31-03-2024,North,Delhi,Monitor,Accessories,Online,18,9888,0.23,137047.68,8549.89,-16850.37
+INV00208,20-06-2024,North,Punjab,Printer,Accessories,Online,10,9910,0,99100,6265,36449.95
+INV00209,27-02-2024,East,Odisha,Monitor,Accessories,Distributor,16,22589,0.21,285524.96,14860.03,47764.56
+INV00210,11-12-2024,East,West Bengal,Printer,Accessories,Distributor,9,29405,0,264645,20245.56,82434.99
+INV00211,04-04-2024,South,Karnataka,Monitor,Accessories,Distributor,13,61059,0.13,690577.29,48894.63,54947.13
+INV00212,17-06-2024,South,Tamil Nadu,Smartphone,Electronics,Online,1,39181,0.1,35262.9,26646.93,8615.97
+INV00213,06-06-2024,East,Assam,Monitor,Accessories,Online,9,52127,0.17,389388.69,33125.01,91263.58
+INV00214,23-04-2024,South,Tamil Nadu,Monitor,Accessories,Distributor,10,20389,0.16,171267.6,14481.56,26452.04
+INV00215,02-10-2024,South,Karnataka,Printer,Accessories,Online,15,53971,0.1,728608.5,40005.92,128519.72
+INV00216,27-02-2024,South,Karnataka,Monitor,Accessories,Online,17,63556,0.13,939993.24,55622.52,-5589.62
+INV00217,29-02-2024,North,Haryana,Monitor,Accessories,Online,19,75341,0.04,1374219.84,56965.52,291875.04
+INV00218,31-07-2024,South,Kerala,Monitor,Accessories,Retail Store,3,71895,0.11,191959.65,45982.84,54011.13
+INV00219,23-10-2024,West,Rajasthan,Laptop,Electronics,Distributor,15,45392,0.18,558321.6,38353.33,-16978.4
+INV00220,29-08-2024,North,Delhi,Printer,Accessories,Retail Store,3,75931,0.25,170844.75,47130.81,29452.33
+INV00221,12-07-2024,North,Punjab,Printer,Accessories,Online,5,60097,0.09,273441.35,44144.92,52716.75
+INV00222,24-04-2024,West,Maharashtra,Monitor,Accessories,Online,12,20549,0.04,236724.48,15589.56,49649.81
+INV00223,26-06-2024,North,Delhi,Smartphone,Electronics,Retail Store,18,60591,0.13,948855.06,40853.7,213488.45
+INV00224,09-01-2024,South,Tamil Nadu,Tablet,Electronics,Distributor,4,9222,0.2,29510.4,7652.56,-1099.85
+INV00225,05-05-2024,South,Karnataka,Laptop,Electronics,Online,20,9400,0.11,167320,8099.64,5327.22
+INV00226,28-05-2024,North,Punjab,Printer,Accessories,Online,18,33477,0.19,488094.66,21493.6,101209.94
+INV00227,23-09-2024,South,Kerala,Monitor,Accessories,Retail Store,19,47030,0.06,839955.8,42125.18,39577.41
+INV00228,16-11-2024,South,Tamil Nadu,Smartphone,Electronics,Retail Store,2,77970,0.24,118514.4,68104.71,-17695.03
+INV00229,11-07-2024,West,Rajasthan,Printer,Accessories,Online,12,54958,0.2,527596.8,39838.91,49529.87
+INV00230,30-01-2024,South,Kerala,Printer,Accessories,Online,8,44418,0.21,280721.76,32820.8,18155.4
+INV00231,08-07-2024,West,Gujarat,Monitor,Accessories,Distributor,5,55910,0.06,262777,44393.2,40811.01
+INV00232,06-04-2024,North,Haryana,Tablet,Electronics,Online,9,54436,0.17,406636.92,46928.52,-15719.77
+INV00233,02-09-2024,South,Tamil Nadu,Tablet,Electronics,Retail Store,10,7009,0.05,66585.5,5764.5,8940.5
+INV00234,13-07-2024,South,Kerala,Monitor,Accessories,Distributor,7,56987,0.23,307159.93,47450.46,-24993.31
+INV00235,28-08-2024,West,Rajasthan,Smartphone,Electronics,Retail Store,9,52139,0.13,408248.37,32825.8,112816.17
+INV00236,13-05-2024,East,West Bengal,Smartphone,Electronics,Retail Store,14,10992,0.14,132343.68,7076.39,33274.15
+INV00237,16-12-2024,West,Gujarat,Tablet,Electronics,Online,11,35149,0.09,351841.49,26354.38,61943.26
+INV00238,06-10-2024,East,Odisha,Printer,Accessories,Distributor,16,65401,0.04,1004559.36,42561.64,323573.06
+INV00239,04-01-2024,West,Maharashtra,Monitor,Accessories,Distributor,2,73674,0.01,145874.52,65095.14,15684.25
+INV00240,11-11-2024,West,Maharashtra,Tablet,Electronics,Online,5,6198,0.05,29440.5,3831.2,10284.5
+INV00241,26-05-2024,West,Rajasthan,Printer,Accessories,Online,1,74758,0,74758,56728.26,18029.74
+INV00242,09-05-2024,North,Haryana,Printer,Accessories,Online,4,17624,0.13,61331.52,13851.31,5926.3
+INV00243,02-06-2024,East,Odisha,Printer,Accessories,Online,12,58218,0.11,621768.24,47108.31,56468.51
+INV00244,25-12-2024,North,Haryana,Laptop,Electronics,Online,13,54710,0.09,647219.3,43276.95,84619
+INV00245,22-01-2024,South,Karnataka,Printer,Accessories,Retail Store,11,79167,0.24,661836.12,68751.58,-94431.27
+INV00246,05-10-2024,South,Karnataka,Monitor,Accessories,Retail Store,9,11102,0.23,76936.86,7595.01,8581.77
+INV00247,09-02-2024,North,Delhi,Smartphone,Electronics,Online,7,23899,0.19,135507.33,17195.06,15141.89
+INV00248,12-03-2024,East,West Bengal,Monitor,Accessories,Online,19,56007,0.17,883230.39,40053.62,122211.56
+INV00249,10-11-2024,North,Haryana,Smartphone,Electronics,Online,4,62290,0.06,234210.4,48682.79,39479.25
+INV00250,14-12-2024,West,Gujarat,Laptop,Electronics,Distributor,9,64054,0.12,507307.68,56517.59,-1350.62
+INV00251,18-07-2024,West,Maharashtra,Monitor,Accessories,Retail Store,8,14634,0.02,114730.56,11904.81,19492.12
+INV00252,14-02-2024,East,Odisha,Laptop,Electronics,Online,1,45405,0.11,40410.45,28635.55,11774.9
+INV00253,17-02-2024,South,Tamil Nadu,Printer,Accessories,Distributor,18,72166,0,1298988,50961.77,381676.08
+INV00254,04-05-2024,East,Odisha,Laptop,Electronics,Retail Store,14,55829,0.19,633100.86,42868.91,32936.12
+INV00255,10-08-2024,South,Kerala,Printer,Accessories,Online,5,40247,0.08,185136.2,24912.09,60575.73
+INV00256,31-10-2024,East,Odisha,Smartphone,Electronics,Retail Store,3,52333,0.06,147579.06,41212.77,23940.76
+INV00257,17-06-2024,South,Tamil Nadu,Laptop,Electronics,Online,10,5887,0.24,44741.2,4627.52,-1534.01
+INV00258,31-03-2024,West,Gujarat,Printer,Accessories,Distributor,20,22842,0.08,420292.8,18469.76,50897.6
+INV00259,15-10-2024,West,Gujarat,Smartphone,Electronics,Distributor,16,36775,0.08,541328,30735.07,49566.84
+INV00260,12-08-2024,South,Kerala,Monitor,Accessories,Online,18,8527,0.24,116649.36,6928.27,-8059.57
+INV00261,04-08-2024,East,Assam,Laptop,Electronics,Retail Store,16,23242,0.16,312372.48,18537.79,15767.79
+INV00262,19-01-2024,West,Maharashtra,Printer,Accessories,Distributor,16,57534,0.13,800873.28,49530.45,8386.05
+INV00263,27-11-2024,East,Assam,Monitor,Accessories,Distributor,3,19335,0.19,46984.05,13660.23,6003.36
+INV00264,22-09-2024,North,Haryana,Printer,Accessories,Retail Store,14,18886,0,264404,14224.99,65254.15
+INV00265,31-05-2024,South,Tamil Nadu,Smartphone,Electronics,Retail Store,15,70597,0.04,1016596.8,52582.86,227853.94
+INV00266,31-08-2024,West,Maharashtra,Laptop,Electronics,Distributor,5,50656,0.08,233017.6,33537.32,65330.99
+INV00267,24-06-2024,North,Punjab,Printer,Accessories,Retail Store,3,44356,0.01,131737.32,26914.14,50994.91
+INV00268,24-08-2024,North,Haryana,Tablet,Electronics,Distributor,8,72632,0.04,557813.76,55778.08,111589.08
+INV00269,30-10-2024,South,Tamil Nadu,Tablet,Electronics,Online,14,56849,0.01,787927.14,37474.71,263281.21
+INV00270,01-10-2024,West,Gujarat,Laptop,Electronics,Distributor,7,31972,0.07,208137.72,26818.19,20410.38
+INV00271,23-11-2024,South,Tamil Nadu,Smartphone,Electronics,Online,15,19936,0.07,278107.2,15117.76,51340.83
+INV00272,10-12-2024,East,Assam,Printer,Accessories,Distributor,13,19972,0.09,236268.76,15682.19,32400.29
+INV00273,21-12-2024,East,Assam,Monitor,Accessories,Online,5,46049,0.03,223337.65,30158.11,72547.12
+INV00274,02-10-2024,South,Kerala,Printer,Accessories,Retail Store,20,23070,0.14,396804,17210.24,52599.11
+INV00275,02-07-2024,South,Kerala,Tablet,Electronics,Retail Store,10,23388,0.05,222186,18378.83,38397.72
+INV00276,31-07-2024,North,Punjab,Tablet,Electronics,Online,13,78607,0.13,889045.17,63310.79,66004.96
+INV00277,27-05-2024,West,Gujarat,Tablet,Electronics,Online,19,9044,0.2,137468.8,5515.11,32681.74
+INV00278,05-10-2024,South,Tamil Nadu,Monitor,Accessories,Distributor,16,77053,0.13,1072577.76,52424.29,233789.07
+INV00279,30-11-2024,East,Assam,Laptop,Electronics,Distributor,15,76611,0.05,1091706.75,62882.05,148476.01
+INV00280,01-03-2024,South,Tamil Nadu,Laptop,Electronics,Retail Store,9,50688,0.22,355829.76,43570.75,-36307.02
+INV00281,15-04-2024,South,Karnataka,Monitor,Accessories,Distributor,12,61120,0.04,704102.4,40460.58,218575.46
+INV00282,20-10-2024,North,Haryana,Smartphone,Electronics,Distributor,9,75617,0.04,653330.88,52008.65,185253.05
+INV00283,08-03-2024,East,Assam,Laptop,Electronics,Online,14,12770,0.25,134085,8148.11,20011.48
+INV00284,11-07-2024,South,Karnataka,Smartphone,Electronics,Online,13,69154,0.04,863041.92,54517.13,154319.23
+INV00285,24-10-2024,West,Maharashtra,Laptop,Electronics,Retail Store,17,41467,0.17,585099.37,30536.66,65976.16
+INV00286,07-08-2024,North,Haryana,Laptop,Electronics,Distributor,15,51952,0.21,615631.2,37369.84,55083.59
+INV00287,24-06-2024,South,Tamil Nadu,Smartphone,Electronics,Retail Store,10,49270,0.14,423722,42161.66,2105.42
+INV00288,01-01-2024,North,Delhi,Laptop,Electronics,Distributor,15,7134,0.03,103799.7,5224.84,25427.1
+INV00289,12-02-2024,West,Maharashtra,Tablet,Electronics,Distributor,10,25837,0.22,201528.6,16225.69,39271.72
+INV00290,16-02-2024,East,Assam,Tablet,Electronics,Online,13,45043,0.18,480158.38,32825.95,53420.97
+INV00291,05-01-2024,North,Delhi,Tablet,Electronics,Retail Store,3,22393,0.15,57102.15,16425.71,7825.01
+INV00292,22-02-2024,East,West Bengal,Printer,Accessories,Distributor,5,67613,0.02,331303.7,55390.53,54351.04
+INV00293,12-12-2024,North,Punjab,Smartphone,Electronics,Retail Store,5,55164,0.19,223414.2,35301.86,46904.88
+INV00294,18-03-2024,South,Karnataka,Monitor,Accessories,Distributor,1,26511,0.11,23594.79,20901.91,2692.88
+INV00295,07-08-2024,West,Rajasthan,Printer,Accessories,Online,3,18168,0.04,52323.84,14879.64,7684.91
+INV00296,19-12-2024,East,West Bengal,Tablet,Electronics,Retail Store,3,37527,0.14,96819.66,29356.54,8750.03
+INV00297,02-05-2024,North,Haryana,Smartphone,Electronics,Online,17,71784,0.05,1159311.6,56985.8,190553.08
+INV00298,08-03-2024,West,Gujarat,Laptop,Electronics,Online,16,14307,0.13,199153.44,12820,-5966.54
+INV00299,04-02-2024,West,Rajasthan,Printer,Accessories,Retail Store,18,27645,0.19,403064.1,33174,-194067.9
+INV00300,31-07-2024,North,Punjab,Tablet,Electronics,Online,2,57163,0.13,99463.62,42890.24,13683.14
+INV00301,14-04-2024,West,Rajasthan,Printer,Accessories,Online,18,75471,0.15,1154706.3,52299.29,213318.99
+INV00302,02-05-2024,South,Kerala,Smartphone,Electronics,Retail Store,19,13665,0.08,238864.2,12107.58,8820.22
+INV00303,02-12-2024,North,Delhi,Laptop,Electronics,Retail Store,4,64424,0.15,219041.6,51527.85,12930.19
+INV00304,12-05-2024,South,Karnataka,Laptop,Electronics,Distributor,5,6487,0.04,31137.6,4910.02,6587.5
+INV00305,19-05-2024,South,Tamil Nadu,Tablet,Electronics,Distributor,9,20473,0,184257,17240.98,29088.22
+INV00306,17-10-2024,North,Punjab,Monitor,Accessories,Distributor,3,70031,0.11,186982.77,52515.06,29437.6
+INV00307,07-01-2024,South,Tamil Nadu,Tablet,Electronics,Retail Store,4,20117,0.06,75639.92,12335.97,26296.03
+INV00308,31-12-2024,South,Karnataka,Printer,Accessories,Retail Store,13,24671,0.04,307894.08,15064.34,112057.71
+INV00309,27-01-2024,West,Maharashtra,Smartphone,Electronics,Online,14,46934,0.07,611080.68,33409.61,143346.09
+INV00310,08-06-2024,South,Karnataka,Monitor,Accessories,Online,13,14034,0.22,142304.76,11677.11,-9497.61
+INV00311,14-11-2024,East,West Bengal,Monitor,Accessories,Retail Store,1,53354,0.05,50686.3,36876.83,13809.47
+INV00312,18-03-2024,South,Tamil Nadu,Smartphone,Electronics,Distributor,16,30614,0.18,401655.68,25678.78,-9204.8
+INV00313,20-06-2024,North,Punjab,Laptop,Electronics,Online,18,50406,0.16,762138.72,30388.69,215142.28
+INV00314,31-01-2024,North,Haryana,Printer,Accessories,Distributor,10,18624,0.05,176928,13520,41728.05
+INV00315,09-07-2024,South,Kerala,Smartphone,Electronics,Online,2,35339,0.22,55128.84,28633.57,-2138.3
+INV00316,10-08-2024,West,Rajasthan,Laptop,Electronics,Distributor,4,71247,0.03,276438.36,44347.63,99047.82
+INV00317,19-05-2024,South,Karnataka,Smartphone,Electronics,Retail Store,11,56505,0.18,509675.1,39294.56,77434.99
+INV00318,27-07-2024,South,Karnataka,Tablet,Electronics,Online,19,19283,0.04,351721.92,14265.88,80670.16
+INV00319,17-12-2024,North,Haryana,Smartphone,Electronics,Online,15,45410,0.12,599412,28477.8,172244.94
+INV00320,21-07-2024,East,Assam,Monitor,Accessories,Online,7,47964,0.04,322318.08,42712.9,23327.77
+INV00321,08-10-2024,North,Haryana,Smartphone,Electronics,Retail Store,6,9073,0.24,41372.88,6957.05,-369.42
+INV00322,07-03-2024,South,Karnataka,Printer,Accessories,Online,5,20919,0,104595,18717.7,11006.51
+INV00323,11-04-2024,South,Tamil Nadu,Smartphone,Electronics,Distributor,3,38924,0.23,89914.44,34998.45,-15080.92
+INV00324,21-07-2024,West,Maharashtra,Laptop,Electronics,Retail Store,4,10596,0.24,32211.84,9295.23,-4969.08
+INV00325,17-03-2024,West,Maharashtra,Printer,Accessories,Distributor,14,27650,0.09,352261,18870.97,88067.37
+INV00326,14-02-2024,North,Haryana,Monitor,Accessories,Distributor,8,43680,0.12,307507.2,32485.22,47625.43
+INV00327,10-01-2024,East,Odisha,Tablet,Electronics,Retail Store,7,73919,0.06,486387.02,56407.37,91535.45
+INV00328,14-01-2024,West,Rajasthan,Smartphone,Electronics,Retail Store,18,68527,0.09,1122472.26,47727.78,263372.3
+INV00329,26-10-2024,East,Assam,Tablet,Electronics,Online,9,12679,0.2,91288.8,8966.97,10586.09
+INV00330,22-04-2024,South,Karnataka,Laptop,Electronics,Online,8,39934,0.13,277940.64,32790.53,15616.42
+INV00331,24-12-2024,West,Gujarat,Tablet,Electronics,Online,8,46681,0.2,298758.4,56017.2,-149379.2
+INV00332,04-10-2024,East,Assam,Monitor,Accessories,Online,19,29672,0.21,445376.72,26441.2,-57006.14
+INV00333,01-01-2024,East,West Bengal,Printer,Accessories,Online,3,12362,0.06,34860.84,9369.59,6752.08
+INV00334,12-01-2024,East,Assam,Tablet,Electronics,Online,11,28260,0.23,239362.2,19699.39,22668.95
+INV00335,21-07-2024,South,Kerala,Tablet,Electronics,Online,17,52826,0.24,682511.92,46623.01,-110079.26
+INV00336,06-09-2024,North,Punjab,Smartphone,Electronics,Retail Store,5,25644,0.18,105140.4,20304.4,3618.39
+INV00337,06-06-2024,East,West Bengal,Monitor,Accessories,Distributor,20,51769,0.06,973257.2,33784.73,297562.53
+INV00338,03-04-2024,East,West Bengal,Tablet,Electronics,Distributor,1,56327,0.21,44498.33,43385.58,1112.75
+INV00339,01-05-2024,East,Assam,Tablet,Electronics,Distributor,19,18645,0.23,272776.35,15356.08,-18989.13
+INV00340,04-02-2024,East,Odisha,Tablet,Electronics,Distributor,3,49007,0.11,130848.69,33072.97,31629.77
+INV00341,30-07-2024,East,Odisha,Laptop,Electronics,Distributor,1,11310,0.1,10179,10074.16,104.84
+INV00342,25-04-2024,West,Gujarat,Smartphone,Electronics,Distributor,13,18294,0.21,187879.38,14148.88,3943.89
+INV00343,28-03-2024,South,Tamil Nadu,Laptop,Electronics,Online,10,7631,0.08,70205.2,4748.47,22720.53
+INV00344,30-11-2024,West,Maharashtra,Laptop,Electronics,Distributor,3,49295,0.15,125702.25,59154,-51759.75
+INV00345,10-10-2024,South,Kerala,Printer,Accessories,Online,2,18272,0.08,33620.48,13206.71,7207.06
+INV00346,19-03-2024,East,Assam,Smartphone,Electronics,Retail Store,8,17571,0.01,139162.32,14969.73,19404.52
+INV00347,19-02-2024,North,Punjab,Laptop,Electronics,Retail Store,3,43607,0.21,103348.59,32447.9,6004.88
+INV00348,29-08-2024,North,Delhi,Tablet,Electronics,Distributor,10,15739,0.12,138503.2,13149.35,7009.68
+INV00349,14-05-2024,West,Rajasthan,Smartphone,Electronics,Online,18,55793,0.05,954060.3,39658.81,240201.75
+INV00350,25-06-2024,West,Gujarat,Smartphone,Electronics,Online,9,78956,0.02,696391.92,94747.2,-156332.88
+INV00351,31-08-2024,West,Rajasthan,Tablet,Electronics,Distributor,2,55738,0.2,89180.8,42397.35,4386.1
+INV00352,12-12-2024,South,Tamil Nadu,Smartphone,Electronics,Online,13,9551,0.13,108021.81,8024.13,3708.12
+INV00353,15-12-2024,South,Karnataka,Printer,Accessories,Online,6,32772,0.2,157305.6,23825.65,14351.68
+INV00354,22-07-2024,West,Maharashtra,Tablet,Electronics,Distributor,9,46910,0.23,325086.3,29089.06,63284.77
+INV00355,17-10-2024,East,Odisha,Monitor,Accessories,Retail Store,1,73493,0.2,58794.4,47395.1,11399.3
+INV00356,01-12-2024,North,Delhi,Monitor,Accessories,Online,10,75206,0.22,586606.8,51083,75776.82
+INV00357,20-01-2024,West,Rajasthan,Monitor,Accessories,Retail Store,2,27570,0.07,51280.2,21576.19,8127.82
+INV00358,23-05-2024,West,Gujarat,Tablet,Electronics,Online,16,40203,0,643248,33980.21,99564.64
+INV00359,01-08-2024,West,Rajasthan,Laptop,Electronics,Online,5,44384,0.24,168659.2,37626.4,-19472.81
+INV00360,20-09-2024,North,Delhi,Printer,Accessories,Online,14,68499,0.19,776778.66,57971.06,-34816.2
+INV00361,15-01-2024,South,Karnataka,Smartphone,Electronics,Distributor,17,57872,0.03,954309.28,49989.82,104482.33
+INV00362,20-05-2024,South,Karnataka,Tablet,Electronics,Online,8,9334,0.11,66458.08,7573.52,5869.95
+INV00363,30-08-2024,East,Odisha,Monitor,Accessories,Retail Store,4,9005,0.06,33858.8,6608.15,7426.21
+INV00364,19-04-2024,East,Odisha,Tablet,Electronics,Retail Store,3,42364,0,127092,36269.79,18282.64
+INV00365,15-12-2024,South,Kerala,Tablet,Electronics,Distributor,7,40269,0.16,236781.72,34606.73,-5465.42
+INV00366,30-12-2024,North,Punjab,Tablet,Electronics,Distributor,6,6109,0.06,34454.76,5393.65,2092.89
+INV00367,15-11-2024,East,Odisha,Printer,Accessories,Retail Store,15,38029,0.05,541913.25,28757.2,110555.23
+INV00368,03-09-2024,West,Rajasthan,Laptop,Electronics,Online,17,54051,0.14,790225.62,37014.29,160982.68
+INV00369,01-06-2024,North,Punjab,Smartphone,Electronics,Distributor,11,41291,0.07,422406.93,35828.7,28291.21
+INV00370,01-12-2024,South,Karnataka,Monitor,Accessories,Online,2,57965,0.17,96221.9,47321.75,1578.39
+INV00371,24-06-2024,West,Gujarat,Smartphone,Electronics,Retail Store,13,55891,0.18,595798.06,50213.93,-56983.08
+INV00372,12-10-2024,South,Kerala,Monitor,Accessories,Distributor,16,51988,0.13,723672.96,44303.74,14813.16
+INV00373,14-12-2024,South,Tamil Nadu,Laptop,Electronics,Retail Store,5,38902,0.18,159498.2,33992.08,-10462.19
+INV00374,18-06-2024,East,Assam,Laptop,Electronics,Online,12,34272,0.19,333123.84,28666.03,-10868.53
+INV00375,13-11-2024,East,Odisha,Monitor,Accessories,Retail Store,15,20437,0.12,269768.4,15840.15,32166.08
+INV00376,18-03-2024,North,Punjab,Tablet,Electronics,Distributor,4,55026,0.13,191490.48,47391.4,1924.87
+INV00377,11-02-2024,South,Karnataka,Smartphone,Electronics,Retail Store,19,64974,0.04,1185125.76,42499.95,377626.71
+INV00378,22-03-2024,West,Gujarat,Tablet,Electronics,Retail Store,2,5617,0.11,9998.26,4673.7,650.87
+INV00379,12-04-2024,West,Maharashtra,Tablet,Electronics,Distributor,14,61283,0.1,772165.8,73539.6,-257388.6
+INV00380,21-12-2024,East,West Bengal,Smartphone,Electronics,Distributor,7,7348,0.17,42691.88,4957.31,7990.74
+INV00381,01-06-2024,East,Odisha,Tablet,Electronics,Online,13,70973,0.15,784251.65,60125,2626.64
+INV00382,07-09-2024,East,Odisha,Monitor,Accessories,Distributor,17,49280,0.11,745606.4,31545.94,209325.37
+INV00383,12-01-2024,East,West Bengal,Tablet,Electronics,Retail Store,1,34939,0.06,32842.66,23177.03,9665.63
+INV00384,25-01-2024,South,Karnataka,Smartphone,Electronics,Distributor,2,54177,0.22,84516.12,41197.28,2121.57
+INV00385,07-10-2024,North,Haryana,Laptop,Electronics,Distributor,1,11322,0.17,9397.26,8084.77,1312.49
+INV00386,14-11-2024,East,Odisha,Tablet,Electronics,Online,1,44467,0.11,39575.63,33621.18,5954.45
+INV00387,07-11-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,20,20431,0.07,380016.6,15309.39,73828.76
+INV00388,16-04-2024,South,Tamil Nadu,Monitor,Accessories,Online,12,58707,0,704484,43966.05,176891.41
+INV00389,16-02-2024,West,Gujarat,Tablet,Electronics,Online,1,16665,0.23,12832.05,13343.78,-511.73
+INV00390,21-02-2024,North,Haryana,Laptop,Electronics,Retail Store,8,64867,0.25,389202,47955.08,5561.33
+INV00391,24-01-2024,South,Karnataka,Smartphone,Electronics,Retail Store,11,60836,0.18,548740.72,50339.43,-4993.01
+INV00392,09-07-2024,North,Delhi,Tablet,Electronics,Retail Store,12,62372,0.24,568832.64,51140.07,-44848.25
+INV00393,03-08-2024,East,West Bengal,Laptop,Electronics,Retail Store,13,64839,0.07,783903.51,55450.41,63048.2
+INV00394,18-10-2024,South,Karnataka,Tablet,Electronics,Distributor,2,25892,0.03,50230.48,19284.43,11661.63
+INV00395,04-09-2024,West,Maharashtra,Monitor,Accessories,Retail Store,12,8777,0.22,82152.72,7181.2,-4021.65
+INV00396,22-10-2024,West,Maharashtra,Printer,Accessories,Retail Store,2,13301,0.07,24739.86,10792.04,3155.78
+INV00397,05-12-2024,South,Kerala,Smartphone,Electronics,Distributor,17,17483,0.11,264517.79,13017.47,43220.75
+INV00398,25-03-2024,West,Maharashtra,Monitor,Accessories,Distributor,2,6526,0.16,10963.68,5577.47,-191.26
+INV00399,25-07-2024,North,Punjab,Smartphone,Electronics,Online,11,41458,0.01,451477.62,32875.99,89841.68
+INV00400,11-09-2024,South,Karnataka,Printer,Accessories,Retail Store,19,63733,0.02,1186708.46,44282.86,345334.03
+INV00401,12-11-2024,North,Delhi,Printer,Accessories,Retail Store,2,78024,0.14,134201.28,65347.83,3505.62
+INV00402,20-08-2024,East,Assam,Monitor,Accessories,Online,15,49676,0.09,678077.4,33127.7,181161.84
+INV00403,23-04-2024,East,Assam,Monitor,Accessories,Distributor,16,52617,0.18,690335.04,43556.14,-6563.22
+INV00404,25-03-2024,North,Punjab,Smartphone,Electronics,Distributor,10,76786,0.13,668038.2,47126.14,196776.85
+INV00405,07-04-2024,West,Maharashtra,Printer,Accessories,Online,9,30679,0.05,262305.45,22023.5,64093.94
+INV00406,15-09-2024,East,West Bengal,Printer,Accessories,Online,19,21150,0.19,325498.5,16867.91,5008.25
+INV00407,17-09-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,2,77512,0.23,119368.48,57737.11,3894.27
+INV00408,15-09-2024,South,Kerala,Monitor,Accessories,Online,5,18573,0.1,83578.5,16062.09,3268.03
+INV00409,11-03-2024,West,Gujarat,Monitor,Accessories,Distributor,8,40860,0.1,294192,28121.98,69216.17
+INV00410,15-11-2024,West,Rajasthan,Monitor,Accessories,Retail Store,18,46144,0.18,681085.44,36443.38,25104.66
+INV00411,29-02-2024,East,Assam,Smartphone,Electronics,Distributor,5,28306,0.13,123131.1,19721.2,24525.11
+INV00412,04-08-2024,East,Assam,Printer,Accessories,Distributor,19,59719,0.17,941768.63,45396.64,79232.42
+INV00413,23-03-2024,North,Haryana,Laptop,Electronics,Online,13,24048,0.01,309497.76,16354.89,96884.22
+INV00414,19-08-2024,East,Assam,Smartphone,Electronics,Online,2,43684,0.05,82999.6,30911.01,21177.59
+INV00415,27-05-2024,North,Haryana,Monitor,Accessories,Online,18,55972,0.06,947046.24,46996.7,101105.72
+INV00416,14-08-2024,North,Punjab,Printer,Accessories,Retail Store,11,77368,0.01,842537.52,51134.54,280057.63
+INV00417,31-03-2024,South,Kerala,Smartphone,Electronics,Distributor,18,30751,0.19,448349.58,21164.48,67388.98
+INV00418,07-03-2024,North,Delhi,Tablet,Electronics,Distributor,17,20643,0.09,319347.21,15832.76,50190.3
+INV00419,14-06-2024,South,Kerala,Smartphone,Electronics,Online,11,66122,0.18,596420.44,42722.15,126476.76
+INV00420,28-12-2024,North,Haryana,Monitor,Accessories,Distributor,10,69297,0.2,554376,43093.33,123442.74
+INV00421,25-07-2024,East,Assam,Tablet,Electronics,Online,17,13936,0.2,189529.6,10632.11,8783.74
+INV00422,28-09-2024,North,Punjab,Tablet,Electronics,Online,11,48393,0.09,484413.93,39962.78,44823.35
+INV00423,21-01-2024,West,Rajasthan,Laptop,Electronics,Online,12,63414,0.06,715309.92,55524.17,49019.89
+INV00424,10-07-2024,East,Odisha,Laptop,Electronics,Retail Store,9,75809,0,682281,57240.37,167117.67
+INV00425,02-10-2024,West,Gujarat,Laptop,Electronics,Retail Store,7,46984,0.13,286132.56,30549.86,72283.52
+INV00426,10-08-2024,North,Haryana,Laptop,Electronics,Online,7,60601,0.21,335123.53,51427.5,-24868.97
+INV00427,08-05-2024,North,Haryana,Tablet,Electronics,Online,15,48478,0.01,719898.3,31675.41,244767.13
+INV00428,18-07-2024,North,Haryana,Tablet,Electronics,Retail Store,14,55860,0.11,696015.6,38818.3,152559.37
+INV00429,07-02-2024,North,Haryana,Laptop,Electronics,Distributor,20,13288,0.19,215265.6,10766.8,-70.32
+INV00430,04-12-2024,East,Assam,Laptop,Electronics,Retail Store,10,16338,0.07,151943.4,11672.26,35220.8
+INV00431,31-05-2024,North,Punjab,Tablet,Electronics,Distributor,8,22875,0.19,148230,19554.47,-8205.76
+INV00432,20-07-2024,South,Tamil Nadu,Smartphone,Electronics,Online,18,77754,0,1399572,60011.75,319360.53
+INV00433,23-03-2024,North,Punjab,Tablet,Electronics,Distributor,12,32752,0.1,353721.6,24687.34,57473.55
+INV00434,08-10-2024,South,Karnataka,Monitor,Accessories,Retail Store,7,20023,0.05,133152.95,17133.19,13220.64
+INV00435,01-07-2024,West,Rajasthan,Monitor,Accessories,Online,10,13829,0.06,129992.6,10706.12,22931.43
+INV00436,11-11-2024,South,Kerala,Tablet,Electronics,Online,10,14149,0.23,108947.3,10402.26,4924.73
+INV00437,03-01-2024,East,Assam,Monitor,Accessories,Online,19,79299,0.09,1371079.71,57768.7,273474.33
+INV00438,02-09-2024,East,West Bengal,Tablet,Electronics,Distributor,14,41264,0.21,456379.84,33832.02,-17268.4
+INV00439,12-03-2024,West,Gujarat,Smartphone,Electronics,Retail Store,16,77308,0.03,1199820.16,48285.97,427244.69
+INV00440,23-10-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,3,7441,0.21,17635.17,6278.66,-1200.81
+INV00441,06-07-2024,West,Rajasthan,Tablet,Electronics,Online,18,39159,0.14,606181.32,29041.54,83433.68
+INV00442,05-12-2024,West,Maharashtra,Monitor,Accessories,Distributor,10,22548,0.12,198422.4,16212.81,36294.26
+INV00443,15-03-2024,South,Kerala,Tablet,Electronics,Distributor,5,63487,0.04,304737.6,48868.72,60393.99
+INV00444,03-07-2024,West,Gujarat,Laptop,Electronics,Online,16,35375,0.02,554680,21679.3,207811.13
+INV00445,14-05-2024,West,Gujarat,Printer,Accessories,Online,2,47476,0.03,92103.44,37509.37,17084.7
+INV00446,21-09-2024,South,Tamil Nadu,Printer,Accessories,Retail Store,19,15202,0.13,251289.06,13258.77,-627.57
+INV00447,25-11-2024,West,Gujarat,Smartphone,Electronics,Retail Store,16,5864,0.13,81626.88,7036.8,-30961.92
+INV00448,31-07-2024,East,West Bengal,Tablet,Electronics,Online,6,52477,0.15,267632.7,41894.12,16268.01
+INV00449,12-01-2024,East,Assam,Laptop,Electronics,Retail Store,16,67786,0.05,1030347.2,57618.74,108447.3
+INV00450,16-03-2024,South,Karnataka,Tablet,Electronics,Distributor,19,26119,0.03,481373.17,22651.42,50996.13
+INV00451,04-12-2024,North,Delhi,Smartphone,Electronics,Online,17,58143,0.15,840166.35,35210.59,241586.36
+INV00452,03-11-2024,East,West Bengal,Tablet,Electronics,Retail Store,20,66789,0.22,1041908.4,56711.15,-92314.52
+INV00453,01-11-2024,South,Kerala,Tablet,Electronics,Distributor,17,39671,0.04,647430.72,34779.79,56174.34
+INV00454,16-12-2024,North,Delhi,Printer,Accessories,Retail Store,5,19230,0,96150,16783.98,12230.11
+INV00455,01-03-2024,West,Maharashtra,Monitor,Accessories,Online,6,67373,0.23,311263.26,58164.85,-37725.83
+INV00456,24-09-2024,North,Punjab,Tablet,Electronics,Distributor,18,5157,0.22,72404.28,4098.63,-1371
+INV00457,28-10-2024,West,Gujarat,Laptop,Electronics,Distributor,17,61224,0.06,978359.52,51236.33,107341.99
+INV00458,05-10-2024,North,Punjab,Tablet,Electronics,Retail Store,16,35475,0.23,437052,27652.33,-5385.22
+INV00459,10-06-2024,West,Gujarat,Tablet,Electronics,Online,1,73490,0,73490,58524.78,14965.22
+INV00460,14-12-2024,West,Gujarat,Laptop,Electronics,Online,14,38244,0.07,497936.88,29424.97,85987.24
+INV00461,22-10-2024,West,Maharashtra,Printer,Accessories,Distributor,18,68238,0.04,1179152.64,50846.05,263923.78
+INV00462,23-03-2024,East,Assam,Printer,Accessories,Distributor,5,20608,0.19,83462.4,16688.22,21.28
+INV00463,18-07-2024,North,Delhi,Monitor,Accessories,Retail Store,11,77165,0.15,721492.75,47504,198948.79
+INV00464,07-11-2024,North,Delhi,Tablet,Electronics,Retail Store,20,62065,0.02,1216474,44143.76,333598.71
+INV00465,30-03-2024,North,Haryana,Printer,Accessories,Retail Store,20,73289,0.07,1363175.4,45236.82,458438.95
+INV00466,10-11-2024,West,Gujarat,Laptop,Electronics,Online,17,42487,0.05,686165.05,31999.69,142170.25
+INV00467,23-07-2024,South,Kerala,Laptop,Electronics,Retail Store,8,5037,0.24,30624.96,3439.17,3111.61
+INV00468,16-02-2024,East,Assam,Printer,Accessories,Retail Store,19,31255,0.13,516645.15,19396.39,148113.76
+INV00469,09-04-2024,East,Assam,Monitor,Accessories,Distributor,12,50544,0.24,460961.28,39520.81,-13288.44
+INV00470,29-02-2024,West,Gujarat,Monitor,Accessories,Online,9,27942,0.1,226330.2,17371.98,69982.36
+INV00471,22-08-2024,East,Assam,Monitor,Accessories,Retail Store,15,54424,0.14,702069.6,45021.82,26742.33
+INV00472,27-04-2024,West,Rajasthan,Laptop,Electronics,Retail Store,4,38792,0.02,152064.64,34845.28,12683.52
+INV00473,23-07-2024,East,Odisha,Smartphone,Electronics,Distributor,18,6274,0.18,92604.24,4305.14,15111.78
+INV00474,15-12-2024,East,West Bengal,Monitor,Accessories,Online,16,46139,0.09,671783.84,31407.87,169257.98
+INV00475,12-11-2024,South,Tamil Nadu,Tablet,Electronics,Online,8,39787,0.05,302381.2,26852.59,87560.48
+INV00476,22-01-2024,East,West Bengal,Laptop,Electronics,Online,3,69574,0.15,177413.7,53046.15,18275.24
+INV00477,23-04-2024,West,Gujarat,Monitor,Accessories,Retail Store,16,41009,0.12,577406.72,35874.76,3410.6
+INV00478,30-03-2024,South,Karnataka,Monitor,Accessories,Retail Store,16,75879,0.01,1201923.36,65113.29,160110.71
+INV00479,09-11-2024,West,Maharashtra,Monitor,Accessories,Retail Store,11,6103,0,67133,4725.57,15151.75
+INV00480,12-09-2024,East,West Bengal,Monitor,Accessories,Retail Store,8,40311,0.12,283789.44,28611.83,54894.8
+INV00481,21-10-2024,West,Maharashtra,Printer,Accessories,Distributor,12,52851,0.21,501027.48,34562.8,86273.91
+INV00482,17-03-2024,South,Karnataka,Smartphone,Electronics,Online,18,61651,0.21,876677.22,51787.53,-55498.37
+INV00483,06-09-2024,West,Maharashtra,Tablet,Electronics,Retail Store,16,22625,0.25,271500,17084.18,-1846.96
+INV00484,10-05-2024,East,Odisha,Monitor,Accessories,Distributor,2,57219,0.02,112149.24,38030.05,36089.15
+INV00485,11-01-2024,West,Rajasthan,Laptop,Electronics,Retail Store,11,39048,0.09,390870.48,34344.8,13077.68
+INV00486,25-05-2024,West,Maharashtra,Smartphone,Electronics,Distributor,20,31077,0.14,534524.4,23666.11,61202.13
+INV00487,15-03-2024,East,Odisha,Monitor,Accessories,Retail Store,15,15277,0.1,206239.5,12061.4,25318.5
+INV00488,24-06-2024,South,Kerala,Smartphone,Electronics,Retail Store,20,79925,0.1,1438650,49851.91,441611.88
+INV00489,04-07-2024,South,Tamil Nadu,Smartphone,Electronics,Distributor,10,40058,0.15,340493,34702.55,-6532.48
+INV00490,10-02-2024,West,Gujarat,Tablet,Electronics,Online,1,21389,0.18,17538.98,18867.9,-1328.92
+INV00491,22-07-2024,South,Karnataka,Printer,Accessories,Online,4,13361,0.23,41151.88,8232.35,8222.49
+INV00492,06-05-2024,North,Delhi,Smartphone,Electronics,Distributor,5,16050,0.16,67410,11119.62,11811.9
+INV00493,15-06-2024,East,Odisha,Tablet,Electronics,Online,17,27361,0.01,460485.63,23478.77,61346.62
+INV00494,21-08-2024,West,Gujarat,Monitor,Accessories,Retail Store,18,63306,0.03,1105322.76,48225.64,237261.21
+INV00495,13-05-2024,West,Rajasthan,Monitor,Accessories,Retail Store,12,68131,0.13,711287.64,49909.92,112368.66
+INV00496,08-09-2024,South,Tamil Nadu,Laptop,Electronics,Online,17,22865,0.09,353721.55,13776.05,119528.68
+INV00497,11-08-2024,West,Gujarat,Laptop,Electronics,Retail Store,10,35305,0.2,282440,23180.25,50637.5
+INV00498,09-11-2024,West,Maharashtra,Tablet,Electronics,Distributor,13,54592,0.06,667114.24,42996.49,108159.87
+INV00499,22-11-2024,East,Odisha,Monitor,Accessories,Retail Store,14,29641,0.21,327829.46,20359.77,42792.7
+INV00500,05-04-2024,West,Rajasthan,Printer,Accessories,Retail Store,20,69486,0,1389720,42726.22,535195.59
+INV00501,24-06-2024,North,Punjab,Smartphone,Electronics,Online,15,6075,0.06,85657.5,4544.55,17489.27
+INV00502,19-07-2024,West,Gujarat,Printer,Accessories,Retail Store,15,9159,0.08,126394.2,10990.8,-38467.8
+INV00503,31-12-2024,North,Haryana,Printer,Accessories,Online,7,37778,0.2,211556.8,24049.04,43213.53
+INV00504,16-04-2024,South,Tamil Nadu,Printer,Accessories,Online,2,31106,0.12,54746.56,23526.77,7693.03
+INV00505,01-06-2024,West,Gujarat,Smartphone,Electronics,Retail Store,6,10529,0.19,51170.94,6703.21,10951.69
+INV00506,21-05-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,7,19801,0.06,130290.58,11970.11,46499.83
+INV00507,07-05-2024,North,Punjab,Tablet,Electronics,Online,2,67294,0.17,111708.04,55937.4,-166.77
+INV00508,31-01-2024,South,Tamil Nadu,Laptop,Electronics,Distributor,20,49357,0.23,760097.8,38870.6,-17314.14
+INV00509,26-11-2024,East,Assam,Tablet,Electronics,Distributor,18,19076,0.03,333066.96,17063.53,25923.35
+INV00510,27-12-2024,East,Odisha,Tablet,Electronics,Online,13,51945,0.18,553733.7,31782.37,140562.89
+INV00511,02-11-2024,West,Rajasthan,Smartphone,Electronics,Distributor,16,29874,0.14,411066.24,20825.29,77861.56
+INV00512,22-11-2024,South,Karnataka,Monitor,Accessories,Online,15,43754,0.2,525048,32212.73,41857.03
+INV00513,02-10-2024,West,Rajasthan,Tablet,Electronics,Online,20,52720,0.19,854064,43035.39,-6643.85
+INV00514,19-02-2024,West,Maharashtra,Monitor,Accessories,Distributor,16,77281,0.04,1187036.16,55869.63,293122.06
+INV00515,24-11-2024,North,Delhi,Tablet,Electronics,Online,2,31486,0.03,61082.84,19192.14,22698.56
+INV00516,16-04-2024,West,Rajasthan,Printer,Accessories,Distributor,20,38546,0.01,763210.8,46255.2,-161893.2
+INV00517,28-12-2024,West,Maharashtra,Printer,Accessories,Distributor,2,52307,0.14,89968.04,37911.38,14145.28
+INV00518,22-09-2024,North,Haryana,Smartphone,Electronics,Distributor,2,14225,0.21,22475.5,9456.35,3562.79
+INV00519,01-04-2024,North,Delhi,Tablet,Electronics,Distributor,13,29832,0.05,368425.2,23000.72,69415.84
+INV00520,02-04-2024,West,Rajasthan,Laptop,Electronics,Distributor,19,51918,0.17,818746.86,37802.66,100496.25
+INV00521,15-06-2024,West,Rajasthan,Smartphone,Electronics,Distributor,6,74979,0.25,337405.5,52912.47,19930.67
+INV00522,10-05-2024,East,Odisha,Printer,Accessories,Distributor,11,36551,0.14,345772.46,30326.82,12177.44
+INV00523,03-06-2024,East,Odisha,Printer,Accessories,Retail Store,1,9543,0.25,7157.25,7207.66,-50.41
+INV00524,10-10-2024,North,Punjab,Tablet,Electronics,Online,11,7844,0.19,69890.04,6641.52,-3166.73
+INV00525,29-04-2024,South,Karnataka,Laptop,Electronics,Retail Store,12,25461,0.03,296366.04,19723.28,59686.68
+INV00526,04-09-2024,East,Odisha,Laptop,Electronics,Distributor,13,79588,0.23,796675.88,65029.3,-48705
+INV00527,29-01-2024,South,Tamil Nadu,Monitor,Accessories,Online,20,44373,0.01,878585.4,31702.9,244527.33
+INV00528,20-11-2024,East,Odisha,Printer,Accessories,Retail Store,4,34716,0.19,112479.84,30501.34,-9525.51
+INV00529,26-01-2024,West,Maharashtra,Smartphone,Electronics,Distributor,2,46853,0.13,81524.22,35173.51,11177.21
+INV00530,12-02-2024,West,Gujarat,Monitor,Accessories,Distributor,17,16807,0.06,268575.86,12072.41,63344.84
+INV00531,10-03-2024,West,Rajasthan,Laptop,Electronics,Distributor,13,39413,0.02,502121.62,32797.43,75755.02
+INV00532,06-02-2024,West,Rajasthan,Tablet,Electronics,Retail Store,13,79885,0.05,986579.75,65561.65,134278.36
+INV00533,07-04-2024,East,Odisha,Smartphone,Electronics,Distributor,19,16743,0.03,308573.49,11880.5,82843.94
+INV00534,14-08-2024,East,Odisha,Monitor,Accessories,Distributor,1,44953,0.04,43154.88,38051.6,5103.28
+INV00535,28-01-2024,South,Tamil Nadu,Laptop,Electronics,Online,7,53997,0.04,362859.84,33788.32,126341.62
+INV00536,12-01-2024,South,Kerala,Tablet,Electronics,Retail Store,1,49993,0.17,41494.19,36745.78,4748.41
+INV00537,13-03-2024,East,West Bengal,Monitor,Accessories,Online,7,76620,0.13,466615.8,57074.84,67091.9
+INV00538,22-12-2024,North,Punjab,Monitor,Accessories,Distributor,17,10699,0.06,170970.02,7063.57,50889.26
+INV00539,03-12-2024,East,West Bengal,Printer,Accessories,Distributor,1,13729,0.1,12356.1,11746.87,609.23
+INV00540,10-06-2024,East,West Bengal,Laptop,Electronics,Retail Store,13,35299,0.24,348754.12,28694.79,-24278.17
+INV00541,06-05-2024,West,Rajasthan,Monitor,Accessories,Online,6,31066,0.13,162164.52,37279.2,-61510.68
+INV00542,30-04-2024,East,Odisha,Printer,Accessories,Retail Store,6,7408,0.09,40447.68,5834.31,5441.8
+INV00543,20-07-2024,East,West Bengal,Smartphone,Electronics,Retail Store,1,77737,0.24,59080.12,54613.03,4467.09
+INV00544,08-06-2024,South,Karnataka,Printer,Accessories,Distributor,20,34809,0.1,626562,25338.85,119785.08
+INV00545,11-03-2024,East,Odisha,Monitor,Accessories,Online,7,23163,0.15,137819.85,15303.63,30694.41
+INV00546,04-02-2024,East,Assam,Monitor,Accessories,Online,14,24025,0.16,282534,15554.13,64776.17
+INV00547,14-08-2024,North,Delhi,Smartphone,Electronics,Online,1,46771,0.22,36481.38,33833,2648.38
+INV00548,06-11-2024,East,West Bengal,Tablet,Electronics,Online,5,29215,0.01,144614.25,22936.23,29933.11
+INV00549,05-11-2024,South,Kerala,Tablet,Electronics,Online,1,52089,0.02,51047.22,33348.73,17698.49
+INV00550,08-01-2024,West,Rajasthan,Smartphone,Electronics,Online,13,69414,0.12,794096.16,46360.36,191411.54
+INV00551,11-11-2024,East,Odisha,Tablet,Electronics,Distributor,7,31812,0.02,218230.32,28493.64,18774.87
+INV00552,09-06-2024,West,Rajasthan,Smartphone,Electronics,Retail Store,8,61040,0,488320,50089.4,87604.84
+INV00553,21-08-2024,West,Rajasthan,Monitor,Accessories,Distributor,18,73843,0.16,1116506.16,45158.95,303645.03
+INV00554,26-01-2024,North,Delhi,Monitor,Accessories,Distributor,13,10144,0.14,113409.92,8005.59,9337.25
+INV00555,28-01-2024,South,Tamil Nadu,Printer,Accessories,Retail Store,10,42475,0.12,373780,33297.86,40801.36
+INV00556,06-10-2024,South,Tamil Nadu,Printer,Accessories,Online,17,19833,0.04,323674.56,17220.96,30918.2
+INV00557,13-04-2024,South,Tamil Nadu,Printer,Accessories,Retail Store,15,8265,0.04,119016,6725.98,18126.35
+INV00558,28-12-2024,West,Maharashtra,Smartphone,Electronics,Retail Store,6,21193,0.02,124614.84,25431.6,-27974.76
+INV00559,03-12-2024,West,Rajasthan,Monitor,Accessories,Distributor,6,54634,0,327804,35581.24,114316.57
+INV00560,27-05-2024,South,Karnataka,Tablet,Electronics,Online,2,59995,0.08,110390.8,53292.95,3804.9
+INV00561,03-01-2024,South,Karnataka,Tablet,Electronics,Online,1,38175,0,38175,28615.7,9559.3
+INV00562,07-10-2024,West,Maharashtra,Tablet,Electronics,Distributor,16,64472,0.1,928396.8,50290.13,123754.64
+INV00563,17-01-2024,East,Assam,Monitor,Accessories,Online,2,29227,0.04,56115.84,17858.17,20399.49
+INV00564,04-12-2024,East,Odisha,Laptop,Electronics,Online,4,59651,0.25,178953,40879.68,15434.3
+INV00565,04-02-2024,South,Tamil Nadu,Monitor,Accessories,Retail Store,2,17206,0.19,27873.72,14956.47,-2039.22
+INV00566,17-04-2024,West,Rajasthan,Laptop,Electronics,Retail Store,16,22635,0.03,351295.2,15816.49,98231.35
+INV00567,27-12-2024,South,Kerala,Laptop,Electronics,Online,19,74330,0.25,1059202.5,59954.3,-79929.23
+INV00568,10-11-2024,East,Odisha,Monitor,Accessories,Retail Store,9,73864,0.14,571707.36,64862.31,-12053.46
+INV00569,16-11-2024,West,Rajasthan,Printer,Accessories,Retail Store,6,35503,0.18,174674.76,42603.6,-80946.84
+INV00570,18-04-2024,North,Haryana,Tablet,Electronics,Distributor,14,59269,0.01,821468.34,49893.42,122960.49
+INV00571,14-06-2024,North,Haryana,Tablet,Electronics,Distributor,10,38347,0.2,306776,28837.21,18403.92
+INV00572,18-06-2024,North,Delhi,Smartphone,Electronics,Retail Store,13,79569,0,1034397,51933.79,359257.74
+INV00573,01-10-2024,East,Assam,Printer,Accessories,Retail Store,2,22793,0.12,40115.68,19775.61,564.47
+INV00574,01-10-2024,East,Odisha,Printer,Accessories,Distributor,2,73298,0.07,136334.28,50916.52,34501.24
+INV00575,22-06-2024,North,Delhi,Monitor,Accessories,Distributor,11,51346,0.02,553509.88,43758.18,72169.92
+INV00576,10-06-2024,West,Rajasthan,Monitor,Accessories,Online,19,56061,0.05,1011901.05,46794.3,122809.44
+INV00577,25-09-2024,North,Punjab,Printer,Accessories,Online,16,36148,0.09,526314.88,24970.63,126784.85
+INV00578,04-09-2024,East,West Bengal,Laptop,Electronics,Retail Store,2,31489,0.23,48493.06,19128.95,10235.16
+INV00579,21-09-2024,South,Karnataka,Smartphone,Electronics,Retail Store,17,45679,0.19,628999.83,39354.27,-40022.79
+INV00580,31-10-2024,South,Karnataka,Laptop,Electronics,Retail Store,13,73464,0.03,926381.04,45048.79,340746.83
+INV00581,08-06-2024,North,Punjab,Printer,Accessories,Online,4,73233,0.19,237274.92,44433.69,59540.16
+INV00582,19-05-2024,South,Tamil Nadu,Tablet,Electronics,Online,10,41261,0.13,358970.7,33063.97,28330.95
+INV00583,12-06-2024,South,Karnataka,Smartphone,Electronics,Online,1,78351,0.13,68165.37,55244.93,12920.44
+INV00584,15-08-2024,East,West Bengal,Smartphone,Electronics,Distributor,8,27449,0.02,215200.16,19258.81,61129.65
+INV00585,26-12-2024,North,Delhi,Laptop,Electronics,Retail Store,2,18884,0.1,33991.2,13550.69,6889.83
+INV00586,26-08-2024,West,Rajasthan,Smartphone,Electronics,Retail Store,11,30971,0.18,279358.42,23539.37,20425.37
+INV00587,28-04-2024,South,Karnataka,Printer,Accessories,Online,15,45683,0.17,568753.35,33788.01,61933.15
+INV00588,15-06-2024,South,Karnataka,Monitor,Accessories,Retail Store,12,56390,0.05,642846,39422.16,169780.1
+INV00589,05-11-2024,West,Gujarat,Laptop,Electronics,Online,16,19796,0.09,288229.76,12891.96,81958.46
+INV00590,24-08-2024,South,Kerala,Laptop,Electronics,Retail Store,4,47712,0.14,164129.28,32951.6,32322.89
+INV00591,21-12-2024,West,Rajasthan,Printer,Accessories,Online,20,36941,0.14,635385.2,26418.17,107021.82
+INV00592,06-09-2024,West,Gujarat,Monitor,Accessories,Retail Store,18,35953,0.04,621267.84,29546.54,89430.14
+INV00593,26-07-2024,North,Haryana,Monitor,Accessories,Retail Store,11,77756,0.02,838209.68,53839.09,245979.72
+INV00594,21-04-2024,North,Haryana,Laptop,Electronics,Distributor,20,54664,0.08,1005817.6,33806.66,329684.42
+INV00595,10-04-2024,South,Kerala,Laptop,Electronics,Online,5,64372,0.13,280018.2,49783.98,31098.3
+INV00596,25-06-2024,South,Kerala,Smartphone,Electronics,Retail Store,19,44917,0.23,657135.71,36622.51,-38691.95
+INV00597,08-10-2024,North,Haryana,Laptop,Electronics,Distributor,17,57978,0.21,778644.54,35872.33,168814.9
+INV00598,20-07-2024,North,Delhi,Monitor,Accessories,Retail Store,4,41989,0.22,131005.68,34039.08,-5150.63
+INV00599,06-04-2024,East,Assam,Printer,Accessories,Retail Store,13,62041,0.14,693618.38,46063.05,94798.74
+INV00600,06-09-2024,West,Gujarat,Printer,Accessories,Online,10,21455,0.03,208113.5,12974.1,78372.47
